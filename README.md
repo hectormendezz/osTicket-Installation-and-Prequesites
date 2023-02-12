@@ -4,7 +4,7 @@ Hi, I'm Hector, an <a href="https://linkedin.com/in/hector-mendez-9646901a7/">IT
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/hectormendezz/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/hectormendezz/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/hectormendezz/ticket-lifecycle)
 - <b>Microsoft Azure</b>
  
 <h2>Connect with me:</h2>
